@@ -17,7 +17,7 @@ YTERMUX ejecuta de forma legible la extracción streaming de YT-DLP.
 <p>~ $ yes | termux-setup-storage</p>
 <p>~ $ cd storage/downloads</p>
 <p>~/storage/downloads $ mkdir YTERMUX</p>
-<p>~ $ cd YTERMUX</p>
+<p>~/storage/downloads $ cd YTERMUX</p>
 <p>~/.../downloads/YTERMUX $ python /data/data/com.termux/files/usr/bi/TERMUX.py</p>
 <img src="https://i.imgur.com/BWNHZKx.jpeg" alt="YTERMUX">
 
