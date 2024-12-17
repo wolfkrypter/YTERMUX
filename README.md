@@ -17,6 +17,9 @@ YTERMUX ejecuta de forma legible la extracción streaming de YT-DLP.
 
 <h2>DESINSTALACIÓN</h2>
 <p>~ $ cd /data/data/com.termux/files/usr/bin</p>
-<p>~/data/data/com.termux/files/usr/bin $</p>
 <p>~ $ rm -r YTERMUX.py</p>
-<p>~ $ yes | rm -r YTERMUX
+
+<p>.../usr/bin $ cd</p>
+
+<p>~ $ yes | rm -r YTERMUX</p>
+
