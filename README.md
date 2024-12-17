@@ -19,7 +19,7 @@ YTERMUX ejecuta de forma legible la extracción streaming de YT-DLP.
 <p>~/storage/downloads $ mkdir YTERMUX</p>
 <p>~/storage/downloads $ cd YTERMUX</p>
 <p>~/.../downloads/YTERMUX $ python /data/data/com.termux/files/home/YTERMUX/YTERMUX.py</p>
-<img src="https://i.imgur.com/BWNHZKx.jpeg" alt="YTERMUX">
+<img src="https://i.imgur.com/qN5LmhA.jpeg" alt="YTERMUX">
 
 <h5>INF/TERMUX:</h5>
 <p>Con la ejecución de YTERMUX en un directorio de tal manera, obtiene las extracciones directamente a tal directorio.</p>
