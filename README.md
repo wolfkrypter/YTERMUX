@@ -12,7 +12,7 @@ YTERMUX ejecuta de forma legible la codificación de video urlstreaming de YT-DL
 
 <h2>EJECUCIÓN:</h2>
 <p>~/YTERMUX $ python YTERMUX.py</p>
-<img src="https://i.imgur.com/BWNHZKx.jpeg" alt="YTERMUX">
+<img src="https://i.imgur.com/h728pFX.jpeg" alt="YTERMUX">
 <h3>Almacenamiento:</h3>
 <p>~ $ yes | termux-setup-storage</p>
 <p>~ $ cd storage/downloads</p>
