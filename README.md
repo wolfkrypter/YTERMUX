@@ -10,7 +10,7 @@ YTERMUX ejecuta de forma legible la codificación de video urlstreaming de YT-DL
 <p>~ $ git clone https://github.com/wolfkrypter/YTERMUX.git</p>
 <p>~ $ cd YTERMUX</p>
 
-<h2>EJECUCIÓN</h2>
+<h2>EJECUCIÓN:</h2>
 <p>~/YTERMUX $ python YTERMUX.py</p>
 <img src="https://i.imgur.com/BWNHZKx.jpeg" alt="YTERMUX">
 <h3>Almacenamiento:</h3>
@@ -23,7 +23,7 @@ YTERMUX ejecuta de forma legible la codificación de video urlstreaming de YT-DL
 
 <h5>INF/TERMUX:</h5>
 <p>Con la ejecución de YTERMUX en un directorio de tal manera, obtiene las extracciones directamente a tal directorio.</p>
-<h2>DESINSTALACIÓN</h2>
+<h2>DESINSTALACIÓN:</h2>
 
 <p>~ $ yes | rm -r YTERMUX</p>
 <p>~ $ yes | pkg uninstall python</p>
