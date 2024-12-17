@@ -1,5 +1,5 @@
 # YTERMUX
-YTERMUX ejecuta de forma legible la extracción streaming de YT-DLP.
+YTERMUX ejecuta de forma legible la codificación de video urlstreaming de YT-DLP al formato almacenable de video MP4.
 
 <h2>INSTALACIÓN:</h2>
 <p>~ $ yes | pkg update && yes | pkg upgrade</p>
