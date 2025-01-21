@@ -2,6 +2,7 @@
 YTERMUX ejecuta de forma legible la codificación de video urlstreaming de YT-DLP al formato almacenable de video MP4.
 
 <h2>INSTALACIÓN:</h2>
+<p>~ $ yes | termux-setup-storage</p>
 <p>~ $ yes | pkg update && yes | pkg upgrade</p>
 <p>~ $ yes | pkg install python</p>
 <p>~ $ pip install yt-dlp</p>
